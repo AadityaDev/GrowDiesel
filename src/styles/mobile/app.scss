@@ -1,0 +1,66 @@
+//======= Defaults ===========
+@import '@/styles/common/_variables.scss';
+@import '@/styles/common/_mixins.scss';
+@import '@/styles/common/_defaults.scss';
+@import '@/styles/common/_animations.scss';
+
+//======= Components ===========
+// @import './components/forms';
+// @import './components/buttons';
+// @import './components/dropdown';
+@import './components/header';
+@import './components/footer';
+
+/* PROGRESS TRACKER */
+.progress-tracker {
+  .step {
+    flex: 1;
+
+    &:before {
+      background: #e2e2e2;
+      border-radius: 40px;
+      color: #fff;
+      content: "";
+      display: list-item;
+      font-size: 18px;
+      line-height: 1.8em;
+      padding: 0 0 0 13px;
+      position: absolute;
+      width: 15px;
+      height: 15px;
+      box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      content: '';
+      counter-increment: item;
+    }
+
+    .step-name{
+      border-top: 2px solid #e2e2e2;
+      display: block;
+      margin: 7px 0;
+    }
+  }
+}
+/*last step*/
+.progress-tracker .step:last-child { width: auto;}
+.progress-tracker .step:last-child .step-name{ border-color: transparent;}
+
+/*active step*/
+.progress-tracker .step {
+  &:first-child:before {
+    box-shadow: inset 0 0 0 2px #083361;
+  }
+  &.active {
+    + .step:before {
+      box-shadow: inset 0 0 0 2px #083361;
+    }
+    .step-name {
+      color: #083361;
+      border-color: #083361;
+    }
+    &:before {
+      background: #083361;
+    }
+  }
+}

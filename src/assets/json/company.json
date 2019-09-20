@@ -1,0 +1,123 @@
+{
+    "copyright" : "Copyright © 2001 - 2019 GrowDiesel All Rights Reserved",
+    "mission" : " is India's No.1 cleanfuel exploration and production organization dedicated to the cause of environment, energy and empowerment of masses.Growdiesel's core business is to produce and sell renewable cleanfuels. Our specialization lies in developing high-risk ideas into high-value businesses.",
+    "name" : "Growdiesel",
+    "logo" : "../growdiesel.png",
+    "headerNavs" : [
+        {
+            "title" : "Home",
+            "name" : "home",
+            "url" : ""
+        },
+        {
+            "title" : "About Us",
+            "name" : "about us",
+            "url" : ""
+        },
+        {
+            "title" : "Innovations",
+            "name" : "innovations",
+            "url" : ""
+        },        
+        {
+            "title" : "Opportunities",
+            "name" : "opportunities",
+            "url" : ""
+        },
+        {
+            "title" : "Gallery",
+            "name" : "gallery",
+            "url" : ""
+        },
+        {
+            "title" : "Event",
+            "name" : "event",
+            "url" : ""
+        },
+        {
+            "title" : "Blog",
+            "name" : "blog",
+            "url" : ""
+        },
+        {
+            "title" : "Contact Us",
+            "name" : "contact us",
+            "url" : ""
+        }
+    ],
+    "opportunity" : {
+        "title" : "Golden Opportunity To Take Dealership Of Renewable Oil & Gas Manufacturing Machines",
+        "address" : "New Delhi, India",
+        "subtitle" : "Discover The Art & Science Of Converting Sustainable Feedstocks To Renewable Crude Oil",
+        "description" : {
+            "firspara" : "Organized by Growdiesel, representing renewable oil & gas organization.Golden opporunity to take dealership of renewable oil &gas manufactures machines summit. As we know in comingfuture, people will use renewable cleanfuel such as Green Diesel, Green Petrol. Green jetFuel and other produced from Green Crude. Because our current rate of fossil fuel usage will lead to a fuel crisis this century.Renewable Crude is a crude oil that is produced by renewable sustainable feedstock like waste, biomass, alage and other sources. The renewable crude oil can sources. The renewable crude oil can process as the same as current crude oil in existing refineries and produce drop-in cleanfuel. These fuels are direct replacement of current transportation fuels that meet BIS ASTM and other global standard of current fossilfuels. Cleanfuel produced Renewable Crude Oil are environment friendly, cost effective and can scale to any level.",
+            "secondpara" : "As per our analysis Renewable Crude Oil projects offers a great opportunity for entrepreneurs/investors to own renewable crude oil & gas producing assets (just like Arab Sheikhs). Owning a renewable crude oil & gas producing asset is like owning your own currency printing machine . The price of fuel shall always be on the rise.While most of the projects depreciate with time, renewable crude oil & gas projects shall appreciate with time, renewable crude oil & gas projects shall appreciate with time.",
+            "lastpara" : "Growdiesel is pleased to invite you the Golden Opportunity To Take Dealership in Renewable Oil & Gas Manufactures Machines Summit in New Delhi, India. The summit is focused on renewable crude oil production using sustainable feedstock such as waste Alage, biomass and others. This summit offers many value added opportunities for investors, entrepreneurs, corporates and others to starts their own project. The summit's technical & financial topics will encompass the entire Renewable Crude Oil & industry"
+        },
+        "sessiont" : "Session To Be Covered:",
+        "sessions" : [
+            {
+                "head" : "SESSION-I",
+                "title" : "Announcing The Arrival Of Renewable Crude Oil - An Introduction.",
+                "url" : "",
+                "description" : "This session is especially designed to understand the basics of Renewable Crude Oil, along with current and expected futuristic developments in this international cleanfuels sector."
+            },
+            {
+                "head" : "SESSION-II",
+                "title" : "Commercialization Of Biofuel Machines Through Appointment Of Sales & Service Dealerships All Over The World.",
+                "url" : "",
+                "description" : "This session is especially designed for SME who can enter this business with small investment of Rs. 100 lacs/- and earn upto Rs. 3 Cr/-. (upto 70% Loan available)."
+            },
+            {
+                "head" : "SESSION-I",
+                "title" : "Available Projects For Commercialization Of Renewable Cleanfuels Production.",
+                "url" : "",
+                "description" : "This session is especially designed for private equity company, entrepreneur, small & large corporates to enter in this billion dollar industry."
+            }
+        ],
+        "summitAttend" : {
+            "title" : "Who Should Attend The Summit:",
+            "keypoints" : [
+                "Recently redundant employees who may have some funds have and now are looking at other career options and business opportunities.",
+                "Recently pass out technical students who want to start their own business or establish a project.",
+                "Corporates who wish to have captive source of fuels to ensure fuel security.",
+                "Investors, ventures capitalists and private equity companies.",
+                "Entrepreneurs and would be entrepreneur.",
+                "Energy producer/oil companies.",
+                "Small & medium Entrepreneurs.",
+                "Govt. and municipal agencies."
+            ]
+        },
+        "contactus" : {
+            "title" : "Are you looking for Our Services?",
+            "url" : "/contact-us"
+        }
+    },
+    "social" : [
+        {
+            "name" : "facebook",
+            "url" : "www.facebook.com/growdiesel",
+            "icon" : ""
+        },
+        {
+            "name" : "twitter",
+            "url" : "",
+            "icon" : ""
+        },
+        {
+            "name" : "googleplus",
+            "url" : "",
+            "icon" : ""
+        },
+        {
+            "name" : "pinterest",
+            "url" : "",
+            "icon" : ""
+        },
+        {
+            "name" : "instagram",
+            "url" : "www.instagram.com/growdieselventures",
+            "icon" : ""
+        }
+    ]
+}
